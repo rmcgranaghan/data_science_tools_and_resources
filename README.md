@@ -7,3 +7,4 @@ One will find:
 - Links to the best materials across the web
 - General information to guide data science education, development, and action
 
+Note that most of the information is held in the Wiki section
